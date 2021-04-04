@@ -1,0 +1,3 @@
+token: "" #Your discord token
+guild_id_to_send: 792013144695898122 # The channel id where the staff view tickets
+channel_id_to_send: 828204494428176385 # The server id where we found the last id
