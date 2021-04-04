@@ -1,3 +1,4 @@
+prefix: "m" # The bot prefix
 token: "" #Your discord token
-guild_id_to_send: 792013144695898122 # The channel id where the staff view tickets
-channel_id_to_send: 828204494428176385 # The server id where we found the last id
+guild_id_to_send: 792013144695898122 # The discord server id where the staff view tickets
+channel_name_to_send: "mailbot" # The channel name where the staff can view tickets (it need to is in the previous discord server id)
